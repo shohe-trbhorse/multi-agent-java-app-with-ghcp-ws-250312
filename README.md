@@ -6,14 +6,26 @@ This repo provides a workshop for developing multi-agent applications with GitHu
 
 This workshop covers the fundamental concepts of multi-agent systems and how to build them efficiently using GitHub Copilot.
 
-## Demo
+## Workshop Scenario
 
 ## Features
 
 - feature:1
 - feature:2
 
-## Requirement
+## Requirements
+
+* [Java 17](https://learn.microsoft.com/en-us/java/openjdk/download#openjdk-17)
+* [Maven 3.8.x](https://maven.apache.org/download.cgi)
+* [Azure Developer CLI](https://aka.ms/azure-dev/install)
+* [Node.js](https://nodejs.org/en/download/)
+* [Git](https://git-scm.com/downloads)
+
+For Windows Users:
+* [Windows Subsystem for Linux (WSL)](https://docs.microsoft.com/en-us/windows/wsl/install) - For running Linux GUI applications on Windows.
+OR
+* [Powershell 7+ (pwsh)](https://github.com/powershell/powershell) - For running scripts and managing system configurations.
+  * **Important**: Ensure you can run `pwsh.exe` from a PowerShell command. If this fails, you likely need to upgrade PowerShell.
 
 ## Usage
 
