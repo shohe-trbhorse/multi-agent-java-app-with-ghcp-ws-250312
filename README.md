@@ -8,10 +8,14 @@ This workshop covers the fundamental concepts of multi-agent systems and how to 
 
 ## Workshop Scenario
 
-## Features
+### 1. Analyze this Application Overview
 
-- feature:1
-- feature:2
+You are not aware of this application. GitHub Copilot can explain this application workspace. Check out the GitHub Copilot Chat for an overview of this project.
+
+Hint
+
+
+
 
 ## Requirements
 
