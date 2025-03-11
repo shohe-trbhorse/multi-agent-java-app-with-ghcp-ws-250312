@@ -44,6 +44,15 @@ And next, try to create some other diagrams to visualize different aspects of th
 - Hint: Using **Mermaid notation**
   - [Mermaid Guide](https://mermaid.js.org/intro/getting-started.html)
 
+### 6. Discover how to deploy to Azure
+
+Now you understand the architecture and functionality of the application. And then you are interested in how to deploy it to Azure. Try to discover how to deploy this application to Azure with GitHub Copilot.
+
+### 7. Deploy To Azure
+
+Now that you have acquired the knowledge and tools required for deployment. It is time to deploy your application to Azure.
+
+
 ## Requirements
 
 * Azure Subscription
