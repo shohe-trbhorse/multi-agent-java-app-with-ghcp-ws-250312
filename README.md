@@ -12,7 +12,8 @@ This workshop covers the fundamental concepts of multi-agent systems and how to 
 
 You are not aware of this application. GitHub Copilot can explain this application workspace. Check out the GitHub Copilot Chat for an overview of this project.
 
-Hint
+- Hint: Using **Slash Commands**, **Chat Variables** and **Chat Participants**.
+  - [GitHub Copilot Chat cheat sheet](https://docs.github.com/en/copilot/using-github-copilot/copilot-chat/github-copilot-chat-cheat-sheet)
 
 
 
