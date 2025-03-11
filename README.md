@@ -1,7 +1,10 @@
 # Multi-Agents Application Development With GitHub Copilot Workshop
 
+This repo provides a workshop for developing multi-agent applications with GitHub Copilot.
 
 ## Description
+
+This workshop covers the fundamental concepts of multi-agent systems and how to build them efficiently using GitHub Copilot.
 
 ## Demo
 
