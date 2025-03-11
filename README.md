@@ -22,6 +22,13 @@ You are not familiar with Azure where this application is deployed. Find out wha
 - Hint: Using **GitHub Copilot Edits**
   - [GitHub Copilot Edits](https://code.visualstudio.com/docs/copilot/copilot-edits#_use-edit-mode)
 
+### 3. Explore the specific item
+
+You are interested in the specific items, such as `app` folder or some files. Try using Copilot Chat or Edits by dragging and dropping such specific items into a **Working Set**.
+
+- Hint: Using **Working Set**
+  - [Working Set](https://code.visualstudio.com/blogs/2024/11/12/introducing-copilot-edits#_stay-in-control)
+
 ## Requirements
 
 * [Java 17](https://learn.microsoft.com/en-us/java/openjdk/download#openjdk-17)
