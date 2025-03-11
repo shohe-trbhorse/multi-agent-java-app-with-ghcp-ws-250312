@@ -10,13 +10,17 @@ This workshop covers the fundamental concepts of multi-agent systems and how to 
 
 ### 1. Analyze this Application Overview
 
-You are not aware of this application. GitHub Copilot can explain this application workspace. Check out the GitHub Copilot Chat for an overview of this project.
+You are not familiar with this application. GitHub Copilot can explain this application workspace. Check out the GitHub Copilot Chat for an overview of this project.
 
 - Hint: Using **Slash Commands**, **Chat Variables** and **Chat Participants**.
   - [GitHub Copilot Chat cheat sheet](https://docs.github.com/en/copilot/using-github-copilot/copilot-chat/github-copilot-chat-cheat-sheet)
 
+### 2. Analyze the tools and products that this application uses
 
+You are not familiar with Azure where this application is deployed. Find out what tools and products this application uses. Then use Copilot Edits to generate documentation of the results.
 
+- Hint: Using **GitHub Copilot Edits**
+  - [GitHub Copilot Edits](https://code.visualstudio.com/docs/copilot/copilot-edits#_use-edit-mode)
 
 ## Requirements
 
