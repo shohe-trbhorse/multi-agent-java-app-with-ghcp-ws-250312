@@ -52,6 +52,13 @@ Now you understand the architecture and functionality of the application. And th
 
 Now that you have acquired the knowledge and tools required for deployment. It is time to deploy your application to Azure.
 
+### 8. Experience Azure
+
+Now that you have deployed your application to Azure successfully, take the time to explore the platform and utilize its various features to enhance your application. Consider integrating monitoring, scaling options, and serverless functions to make the most of Azure's capabilities. Additionally, familiarize yourself with Azure's security features and best practices to ensure your application is robust and secure.
+
+### 9. Customize your Application with GitHub
+
+Now that you understand the fundamentals of GitHub and Azure, consider how to customize your application with GitHub Copilot.
 
 ## Requirements
 
